@@ -1,0 +1,18 @@
+{
+  "name": "js-tooling-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TRIPTYK/js-tooling-training.git",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^9.6.1",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-debug": "^4.0.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-image": "^5.1.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
+  }
+}
